@@ -1,4 +1,4 @@
-# Proyecto: Nombre de tu proyecto
+# Proyecto: Playlist de spotify
 Escribe aquí un overview general de tu proyecto
 
 ## Instrucciones para compilar el proyecto
